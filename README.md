@@ -3,7 +3,7 @@ Task 4: Logistic Regression
 
 Objective : To build a binary classification model using Logistic Regression on the Breast Cancer Wisconsin dataset.
 
-Dataset Name : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+Dataset Name :  Breast Cancer Wisconsin (Diagnostic) https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 Steps Followed :
 . Loaded dataset from local .csv file 
